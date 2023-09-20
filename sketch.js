@@ -18,11 +18,19 @@ function makeRed() {
 
 Some Questions:
 0. What is this percent sign all about? (hint: it's "modulus")
+Might be the percentage of frames that the paragraph covers.
+
 1. Where, in the p5 reference, do we find all this DOM stuff?
+Can be created in setup and draw.
+
 2. Why is the text so large when it's just a "paragraph"?
+Might be listed under a header code instead of paragraph.
+
 3. "color" and "red"? Where did those come from and where 
    could you find more style attributes that could be
    changed?
+Will make the paragraph red. You can change canvas and header styles as well.
+
 
 Some Things to Try:
 0. Make the text follow the mouse pointer
