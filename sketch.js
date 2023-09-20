@@ -1,6 +1,8 @@
 var myParagraph;
 
 function setup() {
+createButton();
+
   myParagraph = createP("html");
   myParagraph.position(0, 0);
   myParagraph.mouseClicked(makeRed);
