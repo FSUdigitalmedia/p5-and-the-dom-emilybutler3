@@ -3,6 +3,8 @@ var myParagraph;
 function setup() {
 createButton();
 
+createSlider(1, 10);
+
   myParagraph = createP("html");
   myParagraph.position(0, 0);
   myParagraph.mouseClicked(makeRed);
