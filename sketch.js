@@ -28,7 +28,7 @@ Might be the percentage of frames that the paragraph covers.
 Can be created in setup and draw.
 
 2. Why is the text so large when it's just a "paragraph"?
-Might be listed under a header code instead of paragraph.
+Might be listed under a header code instead of paragraph. The text is also written large in css.
 
 3. "color" and "red"? Where did those come from and where 
    could you find more style attributes that could be
